@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Made For You</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="apresentacao">
+        <h1><img src="top pagina.png" alt="logo Made for you" width="1200"><br>
+            <p class="texto-destaque">A Loja Online que Entende Você
+        </h1>
+        <p>
+            Bem-vindo à Made for You.<br>Aqui, cada produto é cuidadosamente selecionado para atender às
+            suas necessidades
+            únicas.<br> Explore nossa variedade de itens, de acessórios de moda a gadgets tecnológicos.</p>
+            <p class="urgente">Descubra Produtos Feitos Sob Medida para Seu Estilo de Vida </p>
+        <h2>
+           
+        
+            <h1 class="titulo-blog"> Made for You, acreditamos na personalização.<br> Navegue em um ambiente intuitivo e
+                descubra
+                produtos que refletem
+                sua individualidade.<br> Prepare-se para uma jornada de descoberta e inspiração em nossa coleção
+                exclusiva.</h1>
+                <img src="made.png" alt="logo Made for you" width="200" height="200">
+
+
+        <div class="container">
+            
+            <h1 class="centralizado">Nosso compromisso é atender com
+                <strong class="titulo-destaque"><br>excelência, qualidade e responsabilidade</strong>,
+                <br>prezando sempre pelo bom
+                atendimento ao cliente.</h1>
+            <p class="urgente">
+                Olá! Sou <strong>Claudio Maia, desenvolvedor Front-end com especialidade em <span> React, HTML e
+                CSS</span></strong>.</p><br>
+
+
+            <div class="container">
+                <div class="text">
+                    <section class="apresentacao__conteudo">
+                        <h1 class="apresentacao__conteudo__titulo">
+                            Claudio Maia é um empreendedor apaixonado por inovação e excelência. Com uma visão centrada
+                            no cliente,
+                            ele
+                            fundou o "Made for You", uma loja online que busca proporcionar uma experiência única de
+                            compra, onde
+                            cada
+                            produto é escolhido com cuidado para atender às necessidades e gostos individuais dos
+                            clientes. Claudio
+                            é
+                            conhecido por sua dedicação ao bom atendimento e à qualidade dos produtos oferecidos. Sua
+                            determinação e
+                            visão empreendedora o tornam uma figura inspiradora no mundo dos negócios online.
+                        </h1>
+                </div>
+                <img src="claudiomaia.jpg" width="100" alt="foto de claudio maia">
+                <button><a href="https://instagram.com/claudiorobmaia/">Instagram</a></button>
+                <button><a href="https://www.youtube.com/channel/UCNjnvX1dP9HND2CLjj6MkFg">Canal do Youtube</a></button>
+                </section>
+            </div>
+
+
+        </div>
+    </main><br>
+    <footer>Made for you - Projeto Desenvolve 2024 - Todos os direitos reservados</footer>
+</body>
+
+</html>
